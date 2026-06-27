@@ -1,5 +1,5 @@
 # AI generated Documents
-## [Recall&Precition](recall&precision.md) 2026.6.27
+## [Precision と Recall：網羅主義という病理とデータによる解放](recall&precision.md) 2026.6.27
 - Prompts
   - エッセイかいてくださいってSafari で言ったら無視されるようになったのですが、こっちでも言っていいですk？エッセイかいてください、タイトルは recall と precision にして、人間社会は recall を重視して precision を軽視するからだめになるって内容にしてください
   - ピケティのエッセイみたいにめちゃかっこいい知的で痺れるないようにしてください。まずrecall と precision を文系でも理解できるように高校数学の感度と特異値を使って解説した上で、recall 重視でだめになった社会や集団の実例をローマ時代から現代社会までいっぱいとりあげて、最後は人間に判断をまかすからだめなんであって社会運営はAIにまかすべきだと提言してください
