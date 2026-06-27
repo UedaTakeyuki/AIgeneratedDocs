@@ -1,6 +1,6 @@
 # AI generated Documents
 ## [Precision と Recall：網羅主義という病理とデータによる解放](recall&precision/recall&precision.md) 2026.06.27
-- [本文]（recall&precision/recall&precision.md）
+- [本文](recall&precision/recall&precision.md)
 - [README: プロンプトと補足](recall&precision/README.md)
 ## 連載まんが ハルシネさん
 - [第1話📖 AIのハルシネーションにのたうつ話](https://chatgpt.com/s/m_6a3fa20a4e80819194464f57698047c9) 2026.06.27
