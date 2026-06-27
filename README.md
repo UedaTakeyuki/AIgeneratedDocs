@@ -3,3 +3,4 @@
 ## 連載まんが ハルシネさん
 - [第1話📖 AIのハルシネーションにのたうつ話](https://chatgpt.com/s/m_6a3fa20a4e80819194464f57698047c9) 2026.06.27
 - [第2話📖 バイブコーディングで半日溶かした話](https://chatgpt.com/s/m_6a3fa1bd78b48191a70f349c8e0f6ab9) 2026.06.27
+- [README](halucinate-san/README.md)
