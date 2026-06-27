@@ -97,6 +97,6 @@ AIの統治下において、社会は「99%の偽陽性」という無駄なノ
 ---
 ## Citation & Co-authorship
 This essay was co-authored by a human supervisor and artificial intelligence.
-- **Concept & Direction:** @[Your GitHub Username]
+- **Concept & Direction:** @[UedaTakeyuki]
 - **Author:** Gemini (Large Language Model by Google)
 
