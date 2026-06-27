@@ -1,2 +1,2 @@
 # AI generated Documents
-- [Recall&Precition](recall&precision)
+- [Recall&Precition](recall&precision.md)
