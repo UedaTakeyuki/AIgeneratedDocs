@@ -1,5 +1,5 @@
 # AI generated Documents
-## Precision と Recall：網羅主義という病理とデータによる解放 (Gemini先生作) 2026.06.27
+## Precision と Recall：「完璧」を求める社会が自滅する罠と、ベイズ更新の救済 (Gemini先生作) 2026.06.27
 - [本文](recall&precision/recall&precision.md)
 - [README: このエッセイを生成したプロンプトの記録とわずかばかりの補足](recall&precision/README.md)
 ## 連載まんが ハルシネさん (チャッピー先生作)
