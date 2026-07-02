@@ -1,4 +1,5 @@
 # AI generated Documents
+LLM に「こんなの書（描）いて」とお願いして書いてもらった文書や漫画の記録
 ## Precision と Recall：「完璧」を求める社会が自滅する罠と、ベイズ更新の救済 (Gemini先生作) 2026.06.27
 - [本文](recall&precision/recall&precision.md)
 - [README: このエッセイを生成したプロンプトの記録とわずかばかりの補足](recall&precision/README.md)
